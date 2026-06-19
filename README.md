@@ -6,6 +6,7 @@ WebAccess Compliance Checker is an AI-powered accessibility auditing platform th
 The platform identifies accessibility violations, calculates an overall compliance score, and provides actionable recommendations for improvement. For GitHub repositories, it goes a step further by generating AI-powered code fixes that address detected issues directly within the source code.
 
 Developers can review suggested modifications through a side-by-side comparison interface and choose to accept, reject, or undo changes. Approved fixes are automatically applied, enabling faster remediation and helping teams build more inclusive, accessible, and standards-compliant web applications.
+
 ---
 ## Features
 * Website accessibility auditing using URL analysis.
