@@ -17,7 +17,7 @@ Developers can review suggested modifications through a side-by-side comparison 
 * Severity classification of violations.
 * AI-generated code remediation suggestions.
 * Side-by-side code comparison.
-* Accept, reject, or undo suggested fixes.
+* Accept, reject or undo suggested fixes.
 * Automatic application of approved changes.
 * Re-evaluation and updated compliance reports.
 ---
@@ -33,13 +33,12 @@ Developers can review suggested modifications through a side-by-side comparison 
 ---
 ## Report Includes
 * Overall Accessibility Score
-* Compliance Percentage
-* Violation Percentage
+* Compliance & Violation Percentage
 * Severity-Based Findings
 * Rule-Wise Analysis
 * Suggested Improvements
 * Code-Level Recommendations
-* Before-and-After Comparison
+* Before & After Comparison
 ---
 ## Tech Stack
 
@@ -64,18 +63,10 @@ Developers can review suggested modifications through a side-by-side comparison 
 * Reduce manual accessibility auditing effort.
 * Provide actionable code-level recommendations.
 * Automate accessibility remediation.
-* Help developers build inclusive web applications.
 ---
 ## Future Enhancements
 * Pull Request integration.
 * CI/CD pipeline support.
-* Team dashboards.
 * Historical compliance tracking.
 * Custom accessibility rule creation.
 * Multi-repository support.
----
-## Contributing
-Contributions are welcome. Feel free to open issues, suggest improvements, or submit pull requests.
----
-## License
-This project is licensed under the MIT License.
